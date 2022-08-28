@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+  margin-top:20%
+}
+
+.counter .btn {
+  width: 6%;
+  margin-bottom: 1%;
+  border-radius: 10px;
+  
+}
+.counter .by button{
+  width:8%;
+}
+html {
+  background: rgb(209, 213, 205);
+}
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+
+  
+}
+
+h1 {
+  margin-top: -175px;
+}
+button.btn {
+  background: blanchedalmond;
+}
+
+button {
+  border-radius: 10px;
+  background: darkcyan;
+}
+
+
+
+
